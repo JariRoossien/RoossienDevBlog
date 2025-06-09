@@ -3,6 +3,7 @@ layout: post
 title:  "De boodschappenprijzen over de grens"
 date:   2025-06-10 00:00:00 +0200
 categories: groceries
+description: Een analyse in boodschappenprijzen tussen Nederland en België.
 ---
 
 De laatste jaren is het onderwerp van de dag, naast de migratie, de inflatie. Of het om energieprijzen en brandstofprijzen gaan die sinds de oorlog in Oekraine omhoog is geschoten, of de boodschappen die jaar op jaar maar omhoog lijken te gaan. Met deze focus op alle prijzen om ons heen, is er een ander groot verschil weer aan het licht gebracht. Waarom lijkt het alsof de ooster- en zuiderburen zoveel minder hoeven te betalen voor bepaalde producten, die hier onder exact dezelfde merken worden verkocht. De loon en productiekosten tussen Nederland, Duitsland en België zijn over het algemeen hetzelfde, de regelgeving tussen de landen voor productkwaliteit verschilt niet veel, en de transport kosten van een fabriek in Gent of een fabriek in Groningen zullen voor deze bedrijven bijna hetzelfde zijn. 
@@ -12,7 +13,7 @@ Ik ben begonnen met het schrijven van deze blogpost voornamelijk uit frustratie 
 Mijn grootste probleem met dit soort uitspraken en artikelen: Boodschappen worden hier als een homogeen product behandeld. Je kan de prijs van een supermarkt niet analyseren alsof het benzine bij de tankstations is. Het gaat om producten van honderden leveranciers, iedere groep met eigen fabrieken, grondstoffen, en onderhandelaars voor de prijzen. Vervolgens heeft iedere consument ook nog hun eigen prioriteiten; Een student zal hele andere producten kopen dan een moeder van jonge kinderen. Om dus een fatsoenlijke analyse te maken, zullen we dit ook behandelen als eigen groepen.
 
 > Deze blogpost gaat niet over de verzorgingsproducten zoals deodorant en shampoo. Deze producten komen het vaakst in het nieuws
-> als het gaat om de grote prijsverschillen, met als tgenargument dat wij in nederland deze producten als grote bonus verkopen (de bekende 2 + 2 of zelfs 2 + 3 acties bij de Kruidvat). De focus hier ligt op de dagelijkse boodschappen; De kip en groente voor je avondeten, de zak Lay's chips voor op de bank 's avonds, of de yoghurt voor je ontbijt. Producten wat je op een wekelijkse basis koopt, en waar je eigenlijk niet kan wachten op een actie één keer in de zoveel maanden. 
+> als het gaat om de grote prijsverschillen, met als tgenargument dat wij in Nederland deze producten als grote bonus verkopen (de bekende 2 + 2 of zelfs 2 + 3 acties bij de Kruidvat). De focus hier ligt op de dagelijkse boodschappen; De kip en groente voor je avondeten, de zak Lay's chips voor op de bank 's avonds, of de yoghurt voor je ontbijt. Producten wat je op een wekelijkse basis koopt, en waar je eigenlijk niet kan wachten op een actie één keer in de zoveel maanden. 
 
 ## De grote Analyse
 Net als hoe Follow the Money AH heeft leeg gescraped, kunnen wij hier hetzelfde doen. Ik ben ooit begonnen met een project om supermarkten te vergelijken binnenin Nederland, naar aanleiding van een discussie over de "Albert-Heijn marge". Dit ging voornamelijk om duidelijk te maken dat voor A-merken Albert Heijn een 10 tot 20 cent marge er extra bovenop gooide, vergeleken met supermarkten als de Vomar en Dekamarkt. We zullen dus de prijzen van exact dezelfde producten vergelijken tussen Albert Heijn in Nederland en België.
@@ -117,7 +118,7 @@ Op de gezondheid en sport na, waar relatief heel weinig producten in zitten. Is 
 Voor de meeste Nederlanders is het misschien niet altijd bekend, maar er bestaat in Nederland een [Verbruiksbelasting](https://www.rijksoverheid.nl/onderwerpen/koopkracht/verhoging-belasting-op-frisdrank). Voor alle niet alcoholische dranken is er een belasting van 26 cent per verpakking. Deze belasting zou een snelle verklaring zijn voor duurdere dranken in Nederland, echter is de categorie gelijk in kosten ten opzichte van Albert Heijn België. 
 
 ## Het vervolg
-Desondanks dat het gemiddelde product gelijk of misschien goedkoper is, betekent echter niet dat we de gigantische verschillen van eerder zomaar naast ons moeten neerleggen. We zien producten met dezelfde labels in dezelfde klimaten met meer dan dubbel zo dure prijzen. Hoe kan een nederlands bedrijf als FrieslandCampina zo'n groot verschil met producten als chocomel verklaren.
+Desondanks dat het gemiddelde product gelijk of misschien goedkoper is, betekent echter niet dat we de gigantische verschillen van eerder zomaar naast ons moeten neerleggen. We zien producten met dezelfde labels in dezelfde klimaten met meer dan dubbel zo dure prijzen. Hoe kan een Nederlands bedrijf als FrieslandCampina zo'n groot verschil met producten als chocomel verklaren.
 
 Aan wie moeten de vragen worden gesteld, en welke gebieden moet er druk worden uitgevoerd voor transparantie? Op basis van de analyse hier, zien we beide enorm schokkende verschillen in de A-merken, maar ook de huismerk producten van Albert Heijn. We kunnen hier niet alles op een partij afschuiven, maar er is duidelijk verantwoordelijkheid bij de producenten, maar ook de boodschappenketens neer te leggen. 
 
